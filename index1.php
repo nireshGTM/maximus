@@ -1,5 +1,5 @@
 <?php
 
-echo "hello Maximus dont include";
+echo "how dare to ignore";
 
 ?>
